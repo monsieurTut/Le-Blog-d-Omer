@@ -1,0 +1,10 @@
+site_name: Le Blog d'Omer
+theme:
+  name: material
+  language: fr
+  palette:
+    primary: blue-grey
+plugins:
+  - blog:
+      blog_dir: . 
+  - search
