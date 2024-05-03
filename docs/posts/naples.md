@@ -5,6 +5,8 @@ draft: false
 date: 2023-07-03
 categories:
   - Italie
+  - Baloo
+comments: true
 ---
 
 # Naples. Fin de la saison 6 d’Omer
