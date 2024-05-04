@@ -9,3 +9,5 @@ plugins:
   - blog:
       blog_dir: . 
   - search
+extra:
+  disqus_shortname: !ENV DISQUS_SHORTNAME
