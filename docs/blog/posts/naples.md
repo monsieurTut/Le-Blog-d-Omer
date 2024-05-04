@@ -17,9 +17,9 @@ Ainsi en est-il du logement que nous avons repéré à Naples situé dans un anc
 
 D’aspect extérieur l'entrée de l’immeuble où nous dépose le taxi est assez délabré mais car il y a toujours un mais la surprise est à l'intérieur.
 
-Un grand escalier en vieilles pierres mène à un immense appartement très haut de plafond dont les fenêtres donnent sur le patio de l’ancien presbytère. Aux murs sont accrochés des dizaines de tableaux représentant toutes sortes de poissons, des portraits de famille, des œuvres contemporaines. Un bric à brac d’objets anciens et originaux posés sur des meubles rustiques confèrent à l’ensemble un petit côté cabinet de curiosités où l’on circule avec étonnement. Ici un animal exotique empaillé, là une horloge qui fait aussi miroir etc.
-
 <!-- more -->
+
+Un grand escalier en vieilles pierres mène à un immense appartement très haut de plafond dont les fenêtres donnent sur le patio de l’ancien presbytère. Aux murs sont accrochés des dizaines de tableaux représentant toutes sortes de poissons, des portraits de famille, des œuvres contemporaines. Un bric à brac d’objets anciens et originaux posés sur des meubles rustiques confèrent à l’ensemble un petit côté cabinet de curiosités où l’on circule avec étonnement. Ici un animal exotique empaillé, là une horloge qui fait aussi miroir etc.
 
 Le propriétaire, un homme d’une cinquantaine d’années, nous reçoit dans un anglais parfait. Il nous raconte qu’il est le descendant d’une famille d’artistes napolitains dont toutes les œuvres accrochées aux murs sont en grande partie celles de son arrière grand-père et de son grand-père. Lui-même est marchand d’art et artiste à ses heures perdues mais sa véritable passion est de conserver ce lieu unique en bon état, un travail quasi à plein temps.
 
@@ -55,4 +55,4 @@ Mais ceci est une autre histoire.
 
 Pour l’instant nous avons une table retenue dans le restaurant de la marina qui affiche fièrement une étoile au guide Michelin ! C’est donc sur une note culinaire que s’achève la saison 6 d’Omer, l’Ombrina al salmoriglio e misticanza aromatica di campo ça n’attend pas !
 
-![Naples](../images/naples01.webp "Naples")
+![Naples](../../images/naples01.webp "Naples")

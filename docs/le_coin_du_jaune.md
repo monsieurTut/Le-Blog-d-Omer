@@ -1,7 +1,9 @@
 ---
 comments: true
+hide:
+  - navigation
 ---
 
-# Le Coin du Jaune
+# Le coin du jaune
 
 Ici c'est le coin du jaune.

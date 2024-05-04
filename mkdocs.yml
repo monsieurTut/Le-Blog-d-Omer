@@ -1,13 +1,25 @@
 site_name: Le Blog d'Omer
+nav:
+  - Bienvenue: index.md
+  - L'tinéraire: itineraire.md
+  - Les articles: 
+    - blog/index.md
+  - Le coin du jaune: le_coin_du_jaune.md
+  - Le bateau: bateau.md
 theme:
   name: material
   language: fr
   custom_dir: overrides
   palette:
     primary: blue-grey
+  features:
+    - navigation.tabs
+markdown_extensions: 
+  - attr_list
+  - md_in_html
 plugins:
   - blog:
-      blog_dir: . 
+      blog_dir: blog 
   - search
 extra:
   disqus_shortname: !ENV DISQUS_SHORTNAME
