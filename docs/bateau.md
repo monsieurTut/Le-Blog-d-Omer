@@ -1,8 +1,3 @@
----
-hide:
-  - navigation
----
-
 # Le bateau
 
 ## Le voilier

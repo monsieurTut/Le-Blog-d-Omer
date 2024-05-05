@@ -1,12 +1,11 @@
 ---
 hide:
-  - navigation
   - toc
 ---
 
 # Bienvenue sur le blog d'Omer
 
-## Aux lecteurs
+![Omer par Baloo](images/dessin_baloo.webp)
 
 > Partis à bord d’Omer<br>
 > En l'an deux mille dix sept<br>

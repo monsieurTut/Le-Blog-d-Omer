@@ -10,10 +10,13 @@ theme:
   name: material
   language: fr
   custom_dir: overrides
+  logo: toto.png
   palette:
-    primary: blue-grey
+    primary: blue grey
   features:
-    - navigation.tabs
+    - navigation.instant
+extra_css:
+  - css/custom.css
 markdown_extensions: 
   - attr_list
   - md_in_html

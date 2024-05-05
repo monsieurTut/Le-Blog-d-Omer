@@ -1,7 +1,5 @@
 ---
 comments: true
-hide:
-  - navigation
 ---
 
 # Le coin du jaune

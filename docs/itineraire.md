@@ -1,7 +1,5 @@
 ---
 comments: false
-hide:
-  - navigation
 ---
 
 # L'itinéraire
